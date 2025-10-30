@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/kubernetes-error-monitoring-and-auto-restart-91926-91935/pod_log_monitor_frontend"
+}
